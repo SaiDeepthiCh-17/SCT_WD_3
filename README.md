@@ -1,6 +1,6 @@
 # Quiz Game Application – SkillCart Internship Task 1
 
-This is the third task completed as part of my internship with **SkillCart Technology**.
+This is the third task completed as part of my internship with **SkillCart Technology**.The goal was to design a **Quiz Game Application**.
 
 ## ✅ Objective
 
