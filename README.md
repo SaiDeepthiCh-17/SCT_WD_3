@@ -35,7 +35,7 @@ Develop an interactive multiple-choice *Quiz Game Application* that:
 🔗 [Click here to view the project](https://saideepthich-17.github.io/SCT_WD_3/)
 
 ## 🗂 Project Structure
-SCT_WD_1/
+SCT_WD_3/
 
 ├── index.html
 
