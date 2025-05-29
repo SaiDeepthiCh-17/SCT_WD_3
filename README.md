@@ -36,6 +36,7 @@ Develop an interactive multiple-choice *Quiz Game Application* that:
 
 ## 🗂 Project Structure
 SCT_WD_1/
+
 ├── index.html
 
 ├── style.css
